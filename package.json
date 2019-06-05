@@ -22,7 +22,7 @@
   "homepage": "https://github.com/nodeschool/nodeschool.github.io",
   "dependencies": {
     "browser-locale": "^1.0.0",
-    "xhr": "^1.16.1",
+    "xhr": "^2.5.0",
     "mustache": "^0.8.2"
   },
   "devDependencies": {
