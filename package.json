@@ -28,7 +28,7 @@
   "devDependencies": {
     "after-all": "^2.0.1",
     "browserify": "^6.2.0",
-    "cheerio": "^0.17.0",
+    "cheerio": "^0.22.0",
     "cheerio-eq": "^1.0.0",
     "http-server": "^0.7.2",
     "read": "^1.0.5",
